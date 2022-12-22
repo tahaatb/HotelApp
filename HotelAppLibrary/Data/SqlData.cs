@@ -9,7 +9,7 @@ using static HotelAppLibrary.Databases.ISqlDataAccess;
 
 namespace HotelAppLibrary.Data
 {
-    public class SqlData : lDatabaseData
+    public class SqlData : IDatabaseData
     {
         private readonly ISqlDataAccess _db;
 

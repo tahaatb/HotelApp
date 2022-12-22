@@ -10,7 +10,7 @@ using Microsoft.Extensions.Configuration;
 
 namespace HotelAppLibrary.Databases
 {
-    internal class SqlDataAccess : ISqlDataAccess
+    public class SqlDataAccess : ISqlDataAccess
     {
         private readonly IConfiguration _config;
         public SqlDataAccess(IConfiguration config)

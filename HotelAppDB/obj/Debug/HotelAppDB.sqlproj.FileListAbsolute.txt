@@ -8,3 +8,9 @@ C:\Users\dude3\source\repos\HotelApp\HotelAppDB\obj\Debug\postdeploy.sql
 C:\Users\dude3\source\repos\HotelApp\HotelAppDB\obj\Debug\predeploy.sql
 C:\Users\dude3\source\repos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.dll
 C:\Users\dude3\source\repos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.pdb
+C:\Users\dude3\Desktop\repos\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.dacpac
+C:\Users\dude3\Desktop\repos\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.dll
+C:\Users\dude3\Desktop\repos\HotelApp\HotelAppDB\bin\Debug\HotelAppDB.pdb
+C:\Users\dude3\Desktop\repos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.sqlproj.AssemblyReference.cache
+C:\Users\dude3\Desktop\repos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.dll
+C:\Users\dude3\Desktop\repos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.pdb
