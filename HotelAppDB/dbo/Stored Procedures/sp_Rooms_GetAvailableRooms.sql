@@ -1,0 +1,22 @@
+﻿CREATE PROCEDURE [dbo].[sp_Rooms_GetAvailableRooms]
+	@startDate date,
+	@endDate date,
+	@roomTypeId int
+AS
+begin
+	set nocount on;
+
+	select r.*
+	from dbo.Rooms r
+	inner join dbo.RoomTypes t on t.Id = r.RoomTypeId
+	where r.RoomTypeId = @roomTypeId
+	and r.Id not in (
+	select b.RoomId
+	from dbo.Bookings b
+	where (@startDate < b.StartDate and @endDate > b.EndDate)
+		or (@startDate <= b.StartDate and @endDate > b.StartDate)
+		or (@startDate < b.EndDate and @endDate >= b.EndDate)
+
+	);
+
+end
