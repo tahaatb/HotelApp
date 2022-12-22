@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="HotelAppDB.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\DUDE3\SOURCE\REPOS\HOTELAPP\HOTELAPPDB\OBJ\DEBUG\HOTELAPPDB.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\DUDE3\DESKTOP\REPOS\HOTELAPP\HOTELAPPDB\OBJ\DEBUG\HOTELAPPDB.DLL" />
 			<Metadata Name="AssemblyName" Value="HotelAppDB" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\dude3\source\repos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\Users\dude3\Desktop\repos\HotelApp\HotelAppDB\obj\Debug\HotelAppDB.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
